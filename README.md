@@ -1,0 +1,1 @@
+THis is Smaelovic's first git project!
